@@ -209,7 +209,7 @@ export default {
     ]
   },
   gracias: {
-    esquerra:'Muchas',
-    dreta:'gracias'
+    esquerra:'Espacio',
+    dreta:'Zen'
   }
 };
